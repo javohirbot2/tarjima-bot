@@ -1,7 +1,7 @@
 from telegram.ext import Updater,MessageHandler,CommandHandler,Filters
 from googletrans import Translator
 
-updater = Updater('BOT TOKEN',use_context = True )
+updater = Updater('5146245842:AAFegfAySk8bLl5maxEA2A2xVdxxvgXWwlc',use_context = True )
 
 # \start komandasi uchun mas'ul funksiya
 @tarjimonbot.message_handler(commands=["start"])
